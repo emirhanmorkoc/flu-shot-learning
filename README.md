@@ -23,6 +23,13 @@ The goal is to build a practical classification workflow, covering data explorat
 - **Jupyter Notebook** — Interactive analysis
 - **Git & GitHub** — Version control
 
+## Model Performance
+
+| Model | H1N1 ROC AUC | Seasonal Flu ROC AUC | Mean ROC AUC |
+|---|---:|---:|---:|
+| Logistic Regression | TBD | TBD | TBD |
+| HistGradientBoosting | TBD | TBD | TBD |
+
 ## Project Workflow
 
 ### 1. Data Exploration
