@@ -1,0 +1,10 @@
+# Competition data — do not upload
+cvs-files/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Local environment
+.venv/
+venv/
